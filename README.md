@@ -1,6 +1,6 @@
 ## Warachote's Hotel 🏨
 
-Welcome to **Warachote's Hotel**, a programming project inspired by the famous **Hilbert's Grand Hotel paradox** — managing an *infinite number of guests with finite rooms*! This project was developed as a group assignment (4 members) and demonstrates clever use of data structures to efficiently handle guest assignments, collisions, and room management.  
+Welcome to **Warachote's Hotel**, a programming project inspired by the famous **Hilbert's Grand Hotel paradox** managing an *infinite number of guests with finite rooms*! This project was developed as a group assignment (4 members) and demonstrates clever use of data structures to efficiently handle guest assignments, collisions, and room management.  
 
 <br>
 
